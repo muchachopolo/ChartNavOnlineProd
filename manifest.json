@@ -1,0 +1,10 @@
+{
+  "name": "NavPlotter - Aviation Navigation Plotter",
+  "short_name": "NavPlotter",
+  "description": "Digital omnidirectional navigation plotter for aeronautical charts",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111111",
+  "theme_color": "#1565C0"
+}
